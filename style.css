@@ -1,0 +1,38 @@
+*{
+    margin:0;
+}
+header{
+    background-color:red;
+    
+}
+footer{
+    background-color:black;
+    padding:10px 0;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+.two{
+    background-color: rgb(0, 12, 124);
+    color: rgb(255, 255, 255); 
+}
+.two>p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    padding:10px 0;
+    text-align: center;
+}
+article{
+    background-image: url("abobus.jpg");
+    background-attachment: fixed;
+    color: rgb(255, 255, 255);
+}
+html{
+    font-family: "Caveat", cursive;;
+    font-size: 35px;
+    
+}
+.razryv{
+    height: 100px;
+}
